@@ -18,4 +18,4 @@ I'm David Lucas.</p></h1>
  <a href="https://www.instagram.com/david_lucas.93/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   
 ![Snake animation](https://github.com/DavidLucas2021/DavidLucas2021/blob/output/github-contribution-grid-snake.svg) 
-  </div>
+ </div>
