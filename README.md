@@ -1,7 +1,6 @@
-<h1><p>Hello World!!!<br>
-I'm David Lucas👋</p></h1> 
+<h1><p>I'm David Lucas👋</p></h1> 
 
-<p>I am graduated as an Industrial Automation Technician and enthusiast of Full Stack programming technologies. Currently studying HTML, CSS, JAVASCRIPT.</p>
+<p>Graduated as an Industrial Automation Technician and enthusiast of Full Stack programming technologies.</p>
 
 <div align="center"> 
 <p>  
@@ -11,6 +10,14 @@ I'm David Lucas👋</p></h1>
 </div>
   
   ##
+<p>Technologies with ongoing studies:</p>
+<p>
+<img align="center" alt="David_C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="David-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</p>  
+ 
+ ##
   
 <div>
  <a href = "mailto:dlaredes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
