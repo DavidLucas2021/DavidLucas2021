@@ -17,7 +17,9 @@ Atualmente estudante das tecnologias para desenvolvimento Full Stack.</p>
  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLucas2021&layout=compact&langs_count=7&theme=dark"/> 
 </p>
 </div>
-  
+
+<br>
+
 <h2>🛠 Tecnologias:</h2>
 
 
