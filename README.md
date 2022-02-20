@@ -9,8 +9,6 @@ Atualmente estudante das tecnologias para desenvolvimento Full Stack.</p>
 
 <p>Atualmente, curso a Faculdade de Sistemas de Informação e mantenho uma rotina de estudos pessoais com o objetivo de aprimorar meus conhecimentos no C# junto ao .Net para desenvolvimento de aplicações desktop, web e mobile como também no Html, Css e JavaScript para desenvolvimento web e mobile.</p>
 
-<p>Meus conhecimentos atuais são sobre: Git | C# | .NET | ASPNET | SQL - SQLSERVER | HTML | CSS</p>
-
 <p>Gosto de tecnologias, leituras, mercado financeiro, ciclismo e muay thai.</p>
 
 <div align="center"> 
