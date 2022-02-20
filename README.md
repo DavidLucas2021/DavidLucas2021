@@ -11,6 +11,8 @@ Atualmente estudante das tecnologias para desenvolvimento Full Stack.</p>
 
 <p>Gosto de tecnologias, leituras, mercado financeiro, ciclismo e muay thai.</p>
 
+<br>
+
 <div align="center"> 
 <p>  
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DavidLucas2021&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
