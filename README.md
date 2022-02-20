@@ -1,4 +1,4 @@
-<h1><p>👋 Eu sou David Lucas</p></h1> 
+<h1><p>👋 Olá, sou David Lucas</p></h1> 
 
 <p>Formado como Técnico em Automação Industrial.
 Atualmente estudante das tecnologias para desenvolvimento Full Stack.</p>
