@@ -7,7 +7,8 @@ Atualmente estudante das tecnologias para desenvolvimento Full Stack.</p>
 
 <p>Contudo, o interesse pela programação continuava ardente e pensando nisso decidi buscar algum curso técnico que tivesse envolvimento com lógica e programação. Em 2019 iniciei o curso técnico em Automação. No curso comecei a programar lógicas em PLC(Programmable Logic Controller) voltado para processos industrias, oque me fez criar um pensamento lógico inicial. Ao finalizar, tive meus primeiros contatos com a área trabalhando como estagiário e auxiliar técnico de automação. Trabalhando na área descobri a importância das redes de comunicações e protocolos no processo como também tive a oportunidade de envolvimento com a aplicações de alto nível utilizando o C# como linguagem de programação junto ao .Net. Com o envolvimento me vi fortemente interessado pelos conceitos de desenvolvimento de aplicações iniciando novamente a jordana nos estudos pessoais de programação.</p> 
 
-<p>Atualmente, curso a Faculdade de Sistemas de Informação e mantenho uma rotina de estudos pessoais com o objetivo de aprimorar meus conhecimentos no C# junto ao .Net para desenvolvimento de aplicações desktop, web e mobile como também no Html, Css e JavaScript para desenvolvimento web e mobile.</p>
+<p>Atualmente, mantenho uma rotina de estudos pessoais pela Rocketseat no programa Discover. 
+Meus conhecimentos atuais são sobre: Git | HTML | CSS | C# | .NET | ASPNET | SQL - SQLSERVER </p>
 
 <p>Gosto de tecnologias, leituras, mercado financeiro, ciclismo e muay thai.</p>
 
