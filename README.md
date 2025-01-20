@@ -1,7 +1,8 @@
 <h1><p>👋 Hello, I'm David Lucas</p></h1> 
 
-<p>Graduated as an Industrial Automation Technician.
-Currently studying Full Stack development technologies.</p>
+<p>
+ Graduated as an Industrial Automation Technician. <br>
+ Currently studying Full Stack development technologies.</p>
 
 <p>Comecei minha jornada na programação aos 25 anos de idade quando, buscando por uma carreira para seguir, me interessei por programação de sites e comecei a estudar em um curso no You Tube onde era ensinado a programar utilizando o bloco de notas. Na época não me via como alguém capaz de ir muito longe na carreira estudando por conta própria na frente de um notebook e não dei continuidade com os estudos.</p>
 
