@@ -4,9 +4,13 @@
  Graduated as an Industrial Automation Technician. <br>
  Currently studying Full Stack development technologies.</p>
 
-<p>Comecei minha jornada na programação aos 25 anos de idade quando, buscando por uma carreira para seguir, me interessei por programação de sites e comecei a estudar em um curso no You Tube onde era ensinado a programar utilizando o bloco de notas. Na época não me via como alguém capaz de ir muito longe na carreira estudando por conta própria na frente de um notebook e não dei continuidade com os estudos.</p>
+<p>
+I began my journey into programming at the age of 25 when, looking for a career to pursue, I became interested in website programming and began studying on a YouTube course where I was taught how to program using Notepad. At the time, I didn't see myself as someone capable of going very far in my career by studying on my own in front of a laptop and I didn't continue my studies.
+</p>
 
-<p>I began my journey into programming at the age of 25 when, looking for a career to pursue, I became interested in website programming and began studying on a course on YouTube where I was taught how to program using Notepad. At the time, I didn't see myself as someone capable of going very far in my career by studying on my own in front of a notebook and I didn't continue with my studies.</p> 
+<p>
+However, my interest in programming was still burning and with that in mind, I decided to look for a technical course that involved logic and programming. In 2019, I started the technical course in Automation. During the course, I began programming logic in PLC (Programmable Logic Controller) aimed at industrial processes, which made me develop an initial logical thinking. Upon completion, I had my first contact with the area working as an intern and automation technical assistant. Working in the area, I discovered the importance of communication networks and protocols in the process and I also had the opportunity to get involved with high-level applications using C# as a programming language together with .Net. With this involvement I found myself strongly interested in the concepts of application development, starting Jordan again in my personal programming studies.
+</p> 
 
 <p>I currently maintain a personal study routine through Full Stack Club. <br>
 My current knowledge is about: Git | HTML | CSS | C# | JavaScript</p>
