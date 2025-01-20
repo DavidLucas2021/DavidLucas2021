@@ -28,7 +28,7 @@ My current knowledge is about: Git | HTML | CSS | C# | JavaScript</p>
 
 <br>
 
-<h2>🛠 Tecnologias:</h2>
+<h2>🛠 Technologies:</h2>
 
 
 <p>
@@ -41,7 +41,7 @@ My current knowledge is about: Git | HTML | CSS | C# | JavaScript</p>
 
 <br>
 
-<h2><p>📱 Contatos:</p></h2>
+<h2><p>📱 Contacts:</p></h2>
 <div>
  <a href = "mailto:devdavidlucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/-david-lucas?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdmCh%2F4enSfmEXEnh1ERakQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
