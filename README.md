@@ -31,7 +31,7 @@ My current knowledge is about: Git | HTML | CSS | C# | JavaScript</p>
  <img align="center" alt=".NET" src="https://img.shields.io/badge/-.NET-333333?style=flat&logo=DOTNET&logoColor=0000FF">
  <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5">
  <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> 
- <img align="center" alt="JAVASCRIT" src="https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=javascript&logoColor=1572B6"> 
+ <img align="center" alt="JAVASCRIT" src="https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=javascript&logoColor=F0DB4F"> 
 </p> 
 
 <br>
