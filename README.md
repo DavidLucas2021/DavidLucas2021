@@ -1,16 +1,16 @@
-<h1><p>👋 Olá, sou David Lucas</p></h1> 
+<h1><p>👋 Hello, I'm David Lucas</p></h1> 
 
-<p>Formado como Técnico em Automação Industrial.
-Atualmente estudante das tecnologias para desenvolvimento Full Stack.</p>
+<p>Graduated as an Industrial Automation Technician.
+Currently studying Full Stack development technologies.</p>
 
 <p>Comecei minha jornada na programação aos 25 anos de idade quando, buscando por uma carreira para seguir, me interessei por programação de sites e comecei a estudar em um curso no You Tube onde era ensinado a programar utilizando o bloco de notas. Na época não me via como alguém capaz de ir muito longe na carreira estudando por conta própria na frente de um notebook e não dei continuidade com os estudos.</p>
 
-<p>Contudo, o interesse pela programação continuava ardente e pensando nisso decidi buscar algum curso técnico que tivesse envolvimento com lógica e programação. Em 2019 iniciei o curso técnico em Automação. No curso comecei a programar lógicas em PLC(Programmable Logic Controller) voltado para processos industrias, oque me fez criar um pensamento lógico inicial. Ao finalizar, tive meus primeiros contatos com a área trabalhando como estagiário e auxiliar técnico de automação. Trabalhando na área descobri a importância das redes de comunicações e protocolos no processo como também tive a oportunidade de envolvimento com a aplicações de alto nível utilizando o C# como linguagem de programação junto ao .Net. Com o envolvimento me vi fortemente interessado pelos conceitos de desenvolvimento de aplicações iniciando novamente a jordana nos estudos pessoais de programação.</p> 
+<p>I began my journey into programming at the age of 25 when, looking for a career to pursue, I became interested in website programming and began studying on a course on YouTube where I was taught how to program using Notepad. At the time, I didn't see myself as someone capable of going very far in my career by studying on my own in front of a notebook and I didn't continue with my studies.</p> 
 
-<p>Atualmente, mantenho uma rotina de estudos pessoais pela Rocketseat no programa Discover. 
-Meus conhecimentos atuais são sobre: Git | HTML | CSS | C# | .NET | ASPNET | SQL - SQLSERVER </p>
+<p>I currently maintain a personal study routine through Full Stack Club. <br>
+My current knowledge is about: Git | HTML | CSS | C# | JavaScript</p>
 
-<p>Gosto de tecnologias, leituras, mercado financeiro, ciclismo e muay thai.</p>
+<p>I like technology, reading, financial markets, cycling and muay thai.</p>
 
 <br>
 
@@ -27,19 +27,18 @@ Meus conhecimentos atuais são sobre: Git | HTML | CSS | C# | .NET | ASPNET | SQ
 
 
 <p>
-<img align="center" alt="David_C#" src="https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=CSHARP&logoColor=6A5ACD">
-<img align="center" alt="David_C#" src="https://img.shields.io/badge/-.NET-333333?style=flat&logo=DOTNET&logoColor=0000FF">
-<img align="center" alt="David_C#" src="https://img.shields.io/badge/-ASP.NET-333333?style=flat&logo=DOTNET&logoColor=0000FF">
-<img align="center" alt="David_C#" src="https://img.shields.io/badge/-SQLSERVER-333333?style=flat&logo=microsoft-sql-server">
-<img align="center" alt="David_C#" src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5">
-<img align="center" alt="David_C#" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> 
+ <img align="center" alt="C#" src="https://img.shields.io/badge/-CSHARP-333333?style=flat&logo=CSHARP&logoColor=6A5ACD">
+ <img align="center" alt=".NET" src="https://img.shields.io/badge/-.NET-333333?style=flat&logo=DOTNET&logoColor=0000FF">
+ <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5">
+ <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> 
+ <img align="center" alt="JAVASCRIT" src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6"> 
 </p> 
 
 <br>
 
 <h2><p>📱 Contatos:</p></h2>
 <div>
- <a href = "mailto:dlaredes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:devdavidlucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/-david-lucas?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdmCh%2F4enSfmEXEnh1ERakQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/david_lucas.93/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
  </div>
